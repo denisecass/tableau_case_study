@@ -1,4 +1,4 @@
-# tableau_case_study
+# Tableau Case Study 
 
 **Problem Statement File**
 
@@ -11,3 +11,9 @@ The Problem Statement for ChemCorp endeavors to:
 - Suggest some constraints within the solution space 
 - Clearly list the stakeholders involved
 (The data source is the the dataset provided in the "ChemCorp_Sales_Data" file.)
+
+
+**ChemCorp Sales Data Tableau Case Study File**
+
+- Sheet 1: Transactional Data
+- Sheet 2: Market Data Chart (extracted from Sheet 1)
